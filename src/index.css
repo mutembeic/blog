@@ -1,13 +1,74 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+ @import url('https://font.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+ *{
+  margin: 0px;
+  font-family: "Quicksand";
+  color: #333;
+ }
+ 
+ .navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 2px solid whitesmoke;
+ }
+ .navbar h2{
+  color: blueviolet
+ }
+ .navbar .links {
+    margin-left: auto;
+    display: flex;
+    list-style-type: none;
+ }
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
 }
+/* .f2{
+  display: flex;
+  justify-content: center;
+}
+.form {
+  /* margin-left: 150px;  
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  width: 600px;
+  margin-top: 50px;
+}
+.form label {
+  margin-bottom: 8px;
+  font-weight: bold;
+  text-align: start;
+}
+.form input[type="text"],
+.form textarea {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+.form textarea {
+  resize: vertical;
+  height: 100px;
+}
+button {
+  background-color: blue;
+  max-width: 150px;
+  border-radius: 15px;
+  height: 50px;
+} */
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.content{
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  text-align: left;
 }
