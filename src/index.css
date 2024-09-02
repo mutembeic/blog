@@ -26,49 +26,11 @@
   text-decoration: none;
   padding: 6px;
 }
-/* .f2{
-  display: flex;
-  justify-content: center;
-}
-.form {
-  /* margin-left: 150px;  
-  display: flex;
-  flex-direction: column;
-  background-color: #fff;
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
-  width: 600px;
-  margin-top: 50px;
-}
-.form label {
-  margin-bottom: 8px;
-  font-weight: bold;
-  text-align: start;
-}
-.form input[type="text"],
-.form textarea {
-  padding: 10px;
-  margin-bottom: 15px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  font-size: 16px;
-  box-sizing: border-box;
-}
-.form textarea {
-  resize: vertical;
-  height: 100px;
-}
-button {
-  background-color: blue;
-  max-width: 150px;
-  border-radius: 15px;
-  height: 50px;
-} */
-
-.content{
+/* index.css */
+.content {
   max-width: 600px;
   margin: 40px auto;
   padding: 20px;
   text-align: left;
 }
+
