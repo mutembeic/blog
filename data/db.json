@@ -1,0 +1,41 @@
+{
+  "blog": [
+    {
+      "title": "web development",
+      "author": "walker",
+      "body": "development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).",
+      "id": "1"
+    },
+    {
+      "title": "Web 2.0",
+      "author": "john doe",
+      "body": " a term popularised by Dale Dougherty, then vice president of O'Reilly, during a 2004 conference with Media Live, marks a shift in internet usage, emphasizing interactivity",
+      "id": "1"
+    },
+    {
+      "title": "Web 3.0",
+      "author": "mary doe",
+      "body": ", considered the third and current version of the web, was introduced in 2014. The concept envisions a complete redesign of the",
+      "id": "2"
+    },
+    {
+      "title": "Analysis",
+      "author": "anty doe",
+      "body": "Debra Howcraft and John Carroll proposed a methodology in which web development process can be divided into sequential steps",
+      "id": "4"
+    },
+    {
+      "title": "Technology analysis",
+      "author": "uncle doe",
+      "body": " Identification of all necessary technological components and tools for constructing, hosting, and supporting the site.",
+      "id": "5"
+    },
+    {
+      "id": "1aec",
+      "title": "ea",
+      "author": "a",
+      "body": "",
+      "": "assd"
+    }
+  ]
+}
